@@ -11,11 +11,11 @@ import pandas as pd
 # In[2]:
 
 
-credits_file_path = r"C:\Users\simra\OneDrive\Desktop\MACHINE LEARNING for tmdb_5000_credits\tmdb_5000_credits.csv"
+credits_file_path = r"C:\Users\simra\OneDrive\Desktop\MACHINE LEARNING\tmdb_5000_credits.csv"
 credits = pd.read_csv(credits_file_path)
-movies_file_path = r"C:\Users\simra\OneDrive\Desktop\MACHINE LEARNING for tmdb_5000_movies\tmdb_5000_movies.csv"
-movies = pd.read_csv(movies_file_path)
 
+movies_file_path = r"C:\Users\simra\OneDrive\Desktop\MACHINE LEARNING\tmdb_5000_movies.csv"
+movies = pd.read_csv(movies_file_path)
 
 # In[3]:
 
